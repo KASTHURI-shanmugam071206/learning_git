@@ -1,0 +1,10 @@
+Git Notes
+
+Git is a version control system.
+It helps track changes in code.
+It is used by developers all over the world.
+
+Commands I learned:
+git status
+git add .
+git commit -m "first commit"
