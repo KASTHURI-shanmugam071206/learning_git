@@ -1,0 +1,8 @@
+
+This repository is created for learning Git.
+Features:
+- File creation
+- Commit changes
+- Push to GitHub
+
+Created by Kasthuri
